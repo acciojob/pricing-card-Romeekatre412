@@ -1,1 +1,21 @@
-/*  your css code here. If applicable */
+.card{
+	background-color:grey;
+	width:300px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+	box-shadow:20px;
+}
+.pricingcard{
+	width:280px;
+}
+button{
+	background-color:red;
+	color:white;
+	border-radius:1px;
+	padding:10px;
+}
